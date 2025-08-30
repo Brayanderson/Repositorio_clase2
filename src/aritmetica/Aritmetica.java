@@ -13,7 +13,7 @@ public class Aritmetica {
             System.out.println("Ingresar número 2:");
             num2=lectura.nextDouble();
             System.out.println("RESULTADOS DE LA APLICACION:");
-           // procesos de datos
+           // procesos de datos  
            suma=num1+num2;
            promedio =suma/2;
            //salida de datos
